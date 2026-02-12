@@ -31,7 +31,7 @@ Building robust digital solutions for complex agricultural challenges. Currently
 ---
 
 ### 📊 Stats & Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesRioA&layout=compact&theme=transparent&hide_border=true&title_color=007ACC)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JamesRioA&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&hide=html,css&langs_count=5)
 
 ---
 
