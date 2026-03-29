@@ -30,7 +30,7 @@ I build high-performance, reactive web applications and intelligent hardware sys
 * **Key Tech:** C++, Ultrasonic Sensors, Low-latency interrupt handling, You Only Look Once (YOLO)v8 model, Laravel with Vue.
 * **Outcome:** A hardware-software hybrid that mitigates physical loss with zero manual intervention.
 
-### [Adlai Crop Analysis: SVM Implementation]
+### Adlai Crop Analysis: SVM Implementation
 **The Problem:** Manual quality assessment of grain is prone to human error and inconsistency.  
 **The Solution:** Developed a dual-model ML pipeline for automated grain grading.
 * **SVR (Regressor):** Predicted moisture content levels with high precision.
