@@ -14,7 +14,9 @@ I build high-performance, reactive web applications and intelligent hardware sys
 | **Domain** | **Technologies** |
 | :--- | :--- |
 | **Web (TALL)** | `Laravel 11` • `Livewire v4` • `Alpine.js` • `Tailwind CSS` • `Filament v3/v5` |
-| **Intelligence** | `Python` • `Scikit-Learn (SVM/SVR)` • `Data Visualization` |
+| **Web (MERN)** | `MongoDB`, • `Expressjs` • `Reactjs` • `Node` |
+| **Web** | `TanStack` • `Vuejs` • `Laravel + React ` • `MUI` • `JavaScript` |
+| **Intelligence** | `Python` • `Scikit-Learn (SVM/SVR)` • `Data Visualization` • `Roboflow` |
 | **Hardware** | `IoT Architecture` • `C++` • `Sensor Fusion` • `Real-time Processing` |
 | **Databases** | `PostgreSQL` • `MySQL` • `Redis` |
 
@@ -24,8 +26,8 @@ I build high-performance, reactive web applications and intelligent hardware sys
 
 ### [AgriGuard: IoT Rice Field Protection](https://github.com/JamesRioA/AgriGuard)
 **The Problem:** Significant crop loss due to bird predation in localized farming.  
-**The Solution:** An automated deterrent system utilizing real-time sensor data and C++ logic.
-* **Key Tech:** C++, Ultrasonic Sensors, Low-latency interrupt handling.
+**The Solution:** An automated deterrent system utilizing real-time monitoring with YOLOv8 model and C++ logic.
+* **Key Tech:** C++, Ultrasonic Sensors, Low-latency interrupt handling, You Only Look Once (YOLO)v8 model, Laravel with Vue.
 * **Outcome:** A hardware-software hybrid that mitigates physical loss with zero manual intervention.
 
 ### [Adlai Crop Analysis: SVM Implementation]
