@@ -22,10 +22,10 @@ Final-year B.S. IT student who ships real software. I've contributed to an enter
 
 **Full Stack Developer — Internship** · Infinity Hub Digital Marketing *(Feb 2026 – May 2026)*
 
-Contributed across ManPro: a 3-platform enterprise SaaS suite (HRMS, Knowledge Base, LMS) serving HR, payroll, and learning for multiple enterprise clients.
+Contributed across ManPro: a 3-platform enterprise SaaS suite (HRMS, Manual, LMS) serving HR, payroll, and learning for multiple enterprise clients.
 
 - Architected cross-app SSO unifying 3 platforms with tokenized POST login, role-aware routing, and identity context enrichment
-- Built a RAG-style AI assistant with embedding-based retrieval and graceful fallback — eliminated 500-level downtime on provider failures
+- Built a RAG-style AI assistant with embedding-based retrieval.
 - Delivered an ESP32 + AS608 fingerprint attendance prototype with offline-first NVS buffering and UUID idempotency, fully integrated with payroll
 - Led full RBAC migration across backend and frontend, removing all legacy permission paths from production in LMS
 
