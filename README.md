@@ -27,8 +27,7 @@ Contributed across ManPro: a 3-platform enterprise SaaS suite (HRMS, Knowledge B
 - Architected cross-app SSO unifying 3 platforms with tokenized POST login, role-aware routing, and identity context enrichment
 - Built a RAG-style AI assistant with embedding-based retrieval and graceful fallback — eliminated 500-level downtime on provider failures
 - Delivered an ESP32 + AS608 fingerprint attendance prototype with offline-first NVS buffering and UUID idempotency, fully integrated with payroll
-- Reduced production bundle size by 20% (removed Moment.js / jQuery) and implemented route-level code splitting
-- Led full RBAC migration across backend and frontend, removing all legacy permission paths from production
+- Led full RBAC migration across backend and frontend, removing all legacy permission paths from production in LMS
 
 ---
 
