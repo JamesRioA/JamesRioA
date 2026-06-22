@@ -14,7 +14,7 @@
 
 ## About
 
-Final-year B.S. IT student who ships real software. I've contributed to an enterprise SaaS suite at Infinity Hub and built my own multi-tenant SaaS platform — Sursur and Gradoo — from architecture to deployment. I work across the full stack: database schema, API design, frontend UX, and real-time systems. Occasionally extends into IoT and ML when the project calls for it. CCNA-certified.
+A Graduate B.S. IT student who ships real software. I've contributed to an enterprise SaaS suite at Infinity Hub and built my own multi-tenant SaaS platform — Sursur and Gradoo — from architecture to deployment. I work across the full stack: database schema, API design, frontend UX, and real-time systems. Occasionally extends into IoT and ML when the project calls for it. CCNA-certified.
 
 ---
 
