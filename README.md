@@ -104,8 +104,9 @@ Contributed across ManPro: a 3-platform enterprise SaaS suite (HRMS, Manual, LMS
 
 ## Education & Certifications
 
-**B.S. Information Technology** — Bukidnon State University *(Aug 2022 – Jun 2026)*
+**B.S. Information Technology** — Bukidnon State University *(Aug 2022 – Jun 2026)* · **Magna Cum Laude**
 
+- 🏆 **Web Developer of the Year** & **Network Expert of the Year** — BukSU IT Department
 - 🏅 Cisco Certified Network Associate (CCNA) 1–3 — Network Fundamentals, Switching & Routing
 - 🛡️ Introduction to Cybersecurity — Cisco Networking Academy
 - ASEAN Green Entrepreneurship Hackathon — Participant *(May–Jul 2025)*
