@@ -2,7 +2,7 @@
 
 # James Rio Abaquita
 
-**Full Stack Developer** — building production SaaS on Laravel, Next.js, and React.
+**Full Stack Developer** — building production SaaS on Next.js, TypeScript, Laravel, and React.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jamesrio.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-rio-abaquita-40992a331/)
@@ -14,18 +14,29 @@
 
 ## About
 
-A Graduate B.S. IT student who ships real software. I've contributed to an enterprise SaaS suite at Infinity Hub and built my own multi-tenant SaaS platform — Sursur and Gradoo — from architecture to deployment. I work across the full stack: database schema, API design, frontend UX, and real-time systems. Occasionally extends into IoT and ML when the project calls for it. CCNA-certified.
+A Full Stack Developer and B.S. IT graduate (Magna Cum Laude) who ships production software. I've engineered cloud document pipelines and real-time collaboration systems at a US-based stealth startup, contributed across an enterprise SaaS suite at Infinity Hub, and independently architected multi-tenant platforms (Sursur & Gradoo) from database schemas to edge deployment. I take end-to-end ownership across frontend UX, backend APIs, cloud asset ingestion, and real-time synchronization. CCNA-certified.
 
 ---
 
 ## Work Experience
+
+**Full Stack Developer — Contract** · Stealth AI Startup *(Jun 2026 – Present)*
+
+Contributed to a high-performance document processing and cloud collaboration platform powered by Next.js & TypeScript.
+
+- Built a client-side multi-format document preview engine supporting DOCX parsing, virtualized Excel spreadsheet grids (.xlsx/.csv), and canvas-optimized PDF streaming without server-side transcoding
+- Architected an asynchronous contextual search and retrieval pipeline with sub-100ms response latency across workspace assets
+- Integrated Google Drive OAuth2 & Picker API alongside a Backblaze B2 S3 storage pipeline with client-side WebP compression (cutting upload payloads by 70%)
+- Developed a hierarchical file/folder system with drag-and-drop relocation and a real-time collaborative workspace featuring optimistic UI updates and reCAPTCHA protection
+
+<br/>
 
 **Full Stack Developer — Internship** · Infinity Hub Digital Marketing *(Feb 2026 – May 2026)*
 
 Contributed across ManPro: a 3-platform enterprise SaaS suite (HRMS, Manual, LMS) serving HR, payroll, and learning for multiple enterprise clients.
 
 - Architected cross-app SSO unifying 3 platforms with tokenized POST login, role-aware routing, and identity context enrichment
-- Built a RAG-style AI assistant with embedding-based retrieval.
+- Built a RAG-style AI assistant with embedding-based retrieval and graceful fallback handling
 - Delivered an ESP32 + AS608 fingerprint attendance prototype with offline-first NVS buffering and UUID idempotency, fully integrated with payroll
 - Led full RBAC migration across backend and frontend, removing all legacy permission paths from production in LMS
 
@@ -92,13 +103,14 @@ Contributed across ManPro: a 3-platform enterprise SaaS suite (HRMS, Manual, LMS
 
 | | |
 |:---|:---|
-| **Backend** | Laravel · Livewire · Filament · PHP 8.4 · Node.js · Express |
-| **Frontend** | Next.js · React · Vue · TypeScript · Tailwind CSS · TanStack Query · Shadcn UI |
-| **Databases** | MySQL · PostgreSQL · MongoDB |
-| **Real-time** | Laravel Reverb · Echo · WebSockets · MQTT |
-| **AI / ML** | YOLOv8 · RAG · Embedding-based Retrieval |
+| **Backend** | Laravel · Livewire · Filament · PHP 8.4 · Node.js · Express · Supabase |
+| **Frontend** | Next.js · React · Vue · TypeScript · Tailwind CSS · TanStack Query & Table · Shadcn UI |
+| **Databases** | MySQL · PostgreSQL · MongoDB · Redis |
+| **Real-time** | Laravel Reverb · Echo · WebSockets · MQTT · RTSP |
+| **Cloud & Storage** | Google Drive API · Backblaze B2 (S3 API) · Vercel · Docker · Linux |
+| **AI / ML** | YOLOv8 · RAG · Embedding-based Retrieval · SVM |
 | **IoT** | ESP32 · Raspberry Pi · C++ · PlatformIO · UART |
-| **Infra** | Linux · Docker · Git · CI/CD · Vercel · OpenAPI/Scramble |
+| **Infra** | Linux · Docker · Git/GitHub · CI/CD · Vercel · REST API · OpenAPI/Scramble |
 
 ---
 
