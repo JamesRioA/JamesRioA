@@ -2,7 +2,7 @@
 
 # James Rio Abaquita
 
-**Full Stack Developer** — building production SaaS on Next.js, TypeScript, Laravel, and React.
+**Full Stack Developer**  — building production SaaS on Next.js, TypeScript, Laravel, and React.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jamesrio.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-rio-abaquita-40992a331/)
@@ -14,13 +14,13 @@
 
 ## About
 
-A Full Stack Developer and B.S. IT graduate (Magna Cum Laude) who ships production software. I've engineered cloud document pipelines and real-time collaboration systems at a US-based stealth startup, contributed across an enterprise SaaS suite at Infinity Hub, and independently architected multi-tenant platforms (Sursur & Gradoo) from database schemas to edge deployment. I take end-to-end ownership across frontend UX, backend APIs, cloud asset ingestion, and real-time synchronization. CCNA-certified.
+A Full Stack Developer and B.S. IT graduate who ships production software. I've engineered cloud document pipelines and real-time collaboration systems at a US-based AI startup, contributed across an enterprise SaaS suite at Infinity Hub, and independently architected multi-tenant platforms (Sursur & Gradoo) from database schemas to edge deployment. I take end-to-end ownership across frontend UX, backend APIs, cloud asset ingestion, and real-time synchronization. CCNA-certified.
 
 ---
 
 ## Work Experience
 
-**Full Stack Developer — Contract** · Stealth AI Startup *(Jun 2026 – Present)*
+**Full Stack Developer — Contract** · US-based AI Startup *(Jun 2026 – Aug 2026)*
 
 Contributed to a high-performance document processing and cloud collaboration platform powered by Next.js & TypeScript.
 
